@@ -1,0 +1,23 @@
+.kuchbhi{
+    background-color: blueviolet;
+}
+
+.square{
+    height: 30px;
+    width: 30px;
+    background-color: chartreuse;
+}
+
+.btn_1{
+    background-color: darkblue;
+    width: fit-content;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+    color: white;
+}
+.btn_1:hover{
+    color: black;
+    background-color: red;
+}
